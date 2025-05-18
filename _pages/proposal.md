@@ -134,7 +134,7 @@ This project proposes a complete rewrite of BRL-CAD's existing OGV, which curren
        - Monitor and restrict abuse to prevent attacks and exploitation
        of the platform.
 
-### <p style="text-align: center">Timeline
+### Timeline
 As mentioned in the Tasks details, I have added tasks that I think we should add to the project. All these tasks will be worked on once the coding period starts. During the coding period, I’ll document my experience through blogs, sharing insights, challenges, and solutions encountered throughout the project.. I’ll also keep updating the status in the channel about what has been done and what is being done.
 
 - **Community Bonding Period (May 8 – June 1)**
@@ -170,11 +170,11 @@ As mentioned in the Tasks details, I have added tasks that I think we should add
 - **August 25 - September 1**
   This would be the final week for submitting the work, so I will focus on finalizing and documenting all completed tasks and adding further refinements as necessary. 
 
-### <p style="text-align: center">Time Availability
+### Time Availability
 I can easily dedicate around 24-28 hours per week. My college timings during weekdays are 9:00 AM to 3:30 PM IST. So, on weekdays, I will be able to work for 3-4:30 hours a day. I will dedicate the rest on the weekends. The examination, usually held in the first week of May, will not interfere with the coding timeline, which starts in June, and the exam would have already happened before that.
-### <p style="text-align: center">Why BRL-CAD?
+### Why BRL-CAD?
 BRL-CAD is a great community, and working in a community where we get to know about 3D models via these cool projects provides an excellent opportunity to contribute to meaningful and innovative projects. I am passionate about open-source contributions, as they offer invaluable learning opportunities through collaboration with developers worldwide, and we get to work with programmers from around the world suggesting better ways to solve a problem, which can help me in being in a good developer. I deeply admire the BRL-CAD’s work, and this project would help me to learn a lot. Working on this Project would be an honor for me as it will likely be utilized by many contributors, marking a significant milestone in my development journey.
-### <p style="text-align: center">Why Me?
+### Why Me?
 - I have similar interests and skill sets required for this project and have actively invested time in these technologies.
 - I have knowledge, strong interest and strong coding skills in C/C++, JavaScript, Node.js, React, Next.js, making submodules like npm-packages, Three.js, and Nest.js.
 - I have experience in both frontend as well as backend development, gained through diverse project work.
