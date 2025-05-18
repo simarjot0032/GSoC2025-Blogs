@@ -17,11 +17,12 @@ This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https:
 
 ![](/images/reverie-demo.png)
 
-|  Responsiveness            |  Search | Categories |
-|---------------------|----------------------|----------------------|
-|![Responsiveness](/images/mobile-demo.png) | ![search](/images/search.png) | ![categories](/images/categories.png) |
+| Responsiveness                             | Search                        | Categories                            |
+| ------------------------------------------ | ----------------------------- | ------------------------------------- |
+| ![Responsiveness](/images/mobile-demo.png) | ![search](/images/search.png) | ![categories](/images/categories.png) |
 
 # Table of Contents
+- [Table of Contents](#table-of-contents)
   - [Features overview](#features-overview)
   - [Using Reverie on GitHub Pages](#using-reverie-on-github-pages)
     - [1. Fork Reverie to your User Repository](#1-fork-reverie-to-your-user-repository)
