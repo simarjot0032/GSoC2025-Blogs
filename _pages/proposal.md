@@ -4,11 +4,11 @@ permalink: /proposal/
 title: Proposal
 ---
 
-# <p style="text-align: center;">BRL-CAD OGV Migration</p>
+# BRL-CAD OGV Migration
 
-### <p style="text-align: center;">GSoC Project proposal for BRL-CAD</p>
+### GSoC Project proposal for BRL-CAD
 
-### <p style="text-align: center;">Personal Information</p>
+### Personal Information
 
 - **Name**: Simarjot Singh
 - **Email**: [simarjot0032@gmail.com](mailto:simarjot0032@gmail.com)
@@ -17,11 +17,11 @@ title: Proposal
 - **LinkedIn**: [Simarjot Singh](https://www.linkedin.com/in/simarjot0032)
 - **Blog**: [Simarjot Singh](https://simarjot0032.medium.com)
 
-#### <p style="text-align: center;">Brief Background Information</p>
+#### Brief Background Information
 
 I am currently in the second year of my B.Tech in Computer Science and Engineering at Guru Nanak Dev Engineering College, India. I have experience in HTML, CSS, JS, SCSS, React with JS/TS, Next.js, React Native, Firebase, and Supabase. I am proficient with version control systems such as Git and GitHub. In addition, I have successfully completed several freelance projects, delivering professional and high-quality web solutions.
 
-#### <p style="text-align: center;">Projects</p>
+#### Projects
 
 - I have contributed to the Sikh Youth Coding Initiative (SYCI) under the Khalis Foundation. I have developed an NPM package that converts speech to text (Punjabi language), which will be integrated into their apps.
   Link: [punjabi-voice-search - npm](https://www.npmjs.com/package/punjabi-voice-search)
@@ -35,19 +35,19 @@ I am currently in the second year of my B.Tech in Computer Science and Engineeri
 - I have also completed several projects for my practice and to enhance my skills. Recently, I started another project in Next js for managing passwords, inspired by [BitWarden](https://bitwarden.com/). This project is in the initial stages.
   <br>
 
-### <p style="text-align: center;">Project Information</p>
+### Project Information
 
-#### <p style="text-align: center;"> Project Title: BRL-CAD OGV Migration</p>
+####  Project Title: BRL-CAD OGV Migration
 
-##### <p style="text-align: center;">Project Length: 350h</p>
+##### Project Length: 350h
 
-#### <p style="text-align: center;">Project Proposal Brief Summary</p>
+#### Project Proposal Brief Summary
 
 This project proposes a complete rewrite of BRL-CAD's existing OGV, which currently uses Meteor.js, an older framework no longer actively maintained. I suggest converting it to a more stable and maintainable framework. I plan to use Next.js, a modern React-based framework, for the frontend. SCSS/SASS will be used for styling, Nest.js will be used as the backend framework for better efficiency and type-safety, and Three.js will be used for modelling 3-D graphics on the web. Additionally, the frontend will be redesigned following industry-standard UI/UX best practices. Also, it will be made sure to use libraries that have LTS support and are correctly maintained.
 
-#### <p style="text-align: center;">Detailed Project Description</p>
+#### Detailed Project Description
 
-#### <p style="text-align: center;">Current Scenario</p>
+#### Current Scenario
 
 1. Currently, the project has an old and outdated tech stack.
 2. The UI/UX lags behind today’s designs.
@@ -55,7 +55,7 @@ This project proposes a complete rewrite of BRL-CAD's existing OGV, which curren
 4. The project requires a comprehensive redesign for better usability,
    scalability, and maintainability.
 
-#### <p style="text-align: center;">Task Details</p>
+#### Task Details
 
 1. **The design**
    **<u>Description</u>**: The current OGV platform’s interface is outdated and lacksconsistency with modern design standards, making it less intuitive for users.
@@ -134,7 +134,7 @@ This project proposes a complete rewrite of BRL-CAD's existing OGV, which curren
        - Monitor and restrict abuse to prevent attacks and exploitation
        of the platform.
 
-### <p style="text-align: center">Timeline</p>
+### <p style="text-align: center">Timeline
 As mentioned in the Tasks details, I have added tasks that I think we should add to the project. All these tasks will be worked on once the coding period starts. During the coding period, I’ll document my experience through blogs, sharing insights, challenges, and solutions encountered throughout the project.. I’ll also keep updating the status in the channel about what has been done and what is being done.
 
 - **Community Bonding Period (May 8 – June 1)**
@@ -170,11 +170,11 @@ As mentioned in the Tasks details, I have added tasks that I think we should add
 - **August 25 - September 1**
   This would be the final week for submitting the work, so I will focus on finalizing and documenting all completed tasks and adding further refinements as necessary. 
 
-### <p style="text-align: center">Time Availability</p>
+### <p style="text-align: center">Time Availability
 I can easily dedicate around 24-28 hours per week. My college timings during weekdays are 9:00 AM to 3:30 PM IST. So, on weekdays, I will be able to work for 3-4:30 hours a day. I will dedicate the rest on the weekends. The examination, usually held in the first week of May, will not interfere with the coding timeline, which starts in June, and the exam would have already happened before that.
-### <p style="text-align: center">Why BRL-CAD?</p>
+### <p style="text-align: center">Why BRL-CAD?
 BRL-CAD is a great community, and working in a community where we get to know about 3D models via these cool projects provides an excellent opportunity to contribute to meaningful and innovative projects. I am passionate about open-source contributions, as they offer invaluable learning opportunities through collaboration with developers worldwide, and we get to work with programmers from around the world suggesting better ways to solve a problem, which can help me in being in a good developer. I deeply admire the BRL-CAD’s work, and this project would help me to learn a lot. Working on this Project would be an honor for me as it will likely be utilized by many contributors, marking a significant milestone in my development journey.
-### <p style="text-align: center">Why Me?</p>
+### <p style="text-align: center">Why Me?
 - I have similar interests and skill sets required for this project and have actively invested time in these technologies.
 - I have knowledge, strong interest and strong coding skills in C/C++, JavaScript, Node.js, React, Next.js, making submodules like npm-packages, Three.js, and Nest.js.
 - I have experience in both frontend as well as backend development, gained through diverse project work.
